@@ -1,3 +1,6 @@
+//Lee el modulo principal de la aplicacion
+//que es app.module.ts
+
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
